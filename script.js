@@ -24,6 +24,11 @@ const links = [
     url: "https://x.com/GraceGym_/status/1905570765023428810?s=19",
     description: "",
   },
+  {
+    title: "back pain",
+    url: "https://x.com/GraceGym_/status/1918898077248750005?s=19",
+    description: "",
+  },
 ];
 
 const container = document.getElementById("linkContainer");
